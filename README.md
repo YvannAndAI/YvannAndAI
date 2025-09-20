@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a young AI/ML enthusiast with a strong interest in quantitative finance. I enjoy exploring how advanced machine learning techniques—deep learning, reinforcement learning, and NLP models can be applied to solve challenges. My curiosity drives me to test new algorithms, frameworks, and tools, always seeking innovative ways to model complex systems.<br><br>
+Hi! I'm a young AI/ML enthusiast with a strong interest in quantitative finance. I enjoy exploring how advanced machine learning techniques deep learning, reinforcement learning, and NLP models can be applied to solve challenges. My curiosity drives me to test new algorithms, frameworks, and tools, always seeking innovative ways to model complex systems.<br><br>
 I love building projects that push my skills and force me to think outside the box. Through academic work, collaboration, and personal projects, my goal is to deepen my expertise in AI for the quant industry and contribute to cutting-edge research and applications in finance.
 
 
